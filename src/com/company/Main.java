@@ -21,6 +21,7 @@ public class Main {
                 //jupSan++;
                 System.out.println(arr[i] + " " + i);
             }
+            System.out.println();
 
         }
 
